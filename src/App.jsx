@@ -7,6 +7,8 @@ import Faq from './sections/Faq'
 import Testimonials from './sections/Testimonials'
 import Download from './sections/Download'
 import Footer from './sections/Footer'
+import ScrollToTop from './components/ScrollToTop'
+
 
 const App = () => {
   return (
@@ -19,6 +21,7 @@ const App = () => {
       <Testimonials />
       <Download />
       <Footer />
+      <ScrollToTop />
     </main>
   )
 }
