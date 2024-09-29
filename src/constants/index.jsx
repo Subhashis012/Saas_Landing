@@ -406,24 +406,24 @@ export const features = [
       id: '0',
       title: 'x',
       icon: '/images/socials/x.svg',
-      url: '#',
+      url: 'https://x.com/',
     },
     {
       id: '1',
       title: 'Threads',
       icon: '/images/socials/threads.svg',
-      url: '#',
+      url: 'https://www.threads.net/?hl=en',
     },
     {
       id: '2',
       title: 'Instagram',
       icon: '/images/socials/instagram.svg',
-      url: '#',
+      url: 'https://www.instagram.com/',
     },
     {
       id: '3',
       title: 'Discord',
       icon: '/images/socials/discord.svg',
-      url: '#',
+      url: 'https://discord.com/',
     },
   ];
